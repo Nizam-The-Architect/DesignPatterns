@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Behavioral.Visitor\Behavioral.Visitor.csproj" />
-    <ProjectReference Include="..\Creational.Builder\Creational.Builder.csproj" />
     <ProjectReference Include="..\Structural.Bridge\Structural.Bridge.csproj" />
     <ProjectReference Include="..\Structural.Decorator\Structural.Decorator.csproj" />
   </ItemGroup>
